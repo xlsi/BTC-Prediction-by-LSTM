@@ -24,8 +24,11 @@ Google trend, Twitter positive, Twitter negative, …
 
 ## Files
 *cleaned data_new.csv* --- Raw cleaned data
+
 *all_data_new.csv*     --- Raw integrated data
+
 *bitcoin_final.ipynb*  --- Code
+
 *Bitcoin price prediction_v1.2.pptx* --- Project presentation
 
 ***
