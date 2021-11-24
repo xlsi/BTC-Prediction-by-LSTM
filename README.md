@@ -28,6 +28,6 @@ Google trend, Twitter positive, Twitter negative, …
 *bitcoin_final.ipynb*  --- Code
 *Bitcoin price prediction_v1.2.pptx* --- Project presentation
 
-Specially thanks for Prof. Pang and other indutry partners of MSABA for their guidence and review.
+Specially thanks for Prof. Pang and other indutry partners of MSBA for their guidence and review.
 
-Our project is chosen to be one of outstanding projects that are qualified to present to reviewers from industry partners of NUS MSBA. 
+Our project is chosen to be one of outstanding projects that are qualified to present in front of reviewers from industry partners of NUS MSBA and the whole class. 
