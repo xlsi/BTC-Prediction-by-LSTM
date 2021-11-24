@@ -1,4 +1,4 @@
-# BTC Predicction by LSTM
+# BTC Prediction by LSTM
 ### Time: 2021 Oct
 ### Contributors:  Joe Qiao, Yunyi Gao, Ke Ma, Mingzhe Xu, Yishun Liu, Xiao Liang
 This is a group project as part of course DBA5102 Capstone. The project mainly try to use LSTM and static database to predict BTC prices. 
