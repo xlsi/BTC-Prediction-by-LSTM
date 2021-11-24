@@ -29,7 +29,7 @@ Google trend, Twitter positive, Twitter negative, …
 
 *bitcoin_final.ipynb*  --- Code
 
-*Bitcoin price prediction_v1.2.pdf* --- Project presentation
+*Bitcoin price prediction.pdf* --- Project presentation
 
 ***
 Specially thanks for Prof. Pang and other indutry partners of MSBA for their guidence and review.
