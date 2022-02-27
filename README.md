@@ -34,3 +34,4 @@ Google trend, Twitter positive, Twitter negative, …
 Specially thanks for Prof. Pang and other indutry partners of MSBA for their guidence and review.
 
 Our project is chosen to be one of outstanding projects that are qualified to present in front of reviewers from industry partners of NUS MSBA and the whole class. 
+# BTC-Prediction-by-LSTM
